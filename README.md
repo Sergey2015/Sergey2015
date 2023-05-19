@@ -5,9 +5,9 @@ I do data and web analytics research and work with website traffic. I am engaged
 <br><br>
 <b>Skills:</b> Data Science / Data Analytics / ML / SQL / Python / PostgreSQL / Docker / Pandas / Keras / Sckit-Learn
 <br><br>
-- 🌱 I’m currently learning **Machine Learning and Python** 
-- 👯 I’m looking to collaborate on open source/commercial projects 
-- 📫 How to reach me: <a href='https://t.me/Sergey_K99'>Telegram</a>, email:<a href="mailto:kusin99@gmail.com"> send a mail to me</a>
+- 🌱 I’m currently learning **Machine Learning and Python** <br>
+- 👯 I’m looking to collaborate on open source/commercial projects <br>
+- 📫 How to reach me: <a href='https://t.me/Sergey_K99'>Telegram</a>, email:<a href="mailto:kusin99@gmail.com"> send a mail to me</a><br>
 
 
 
