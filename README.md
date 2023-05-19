@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Sergey
 #### I am a Data Scientist and Web Analyst
-![I am a Data Scientist and Web Analyst]<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+I am a Data Scientist and Web Analyst<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 I conduct research in web analytics and work with traffic. I am engaged in sball and analysis of information
 
 Skills: Data Science / Data Analytics / ML / SQL / Python / PostgreSQL / Docker / Pandas / Keras / Sckit-Learn
